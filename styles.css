@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Roboto&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    margin: 0%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+h1{
+    text-decoration: underline;
+    color: darkcyan;
+    text-align: center;
+}
+
+.selector{
+    color: lightcyan;
+    background-color: darkcyan;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+.selectors{
+    padding: 5%;
+    border: solid darkcyan 1px;
+    border-radius: 5px;
+}
+
+#universal{
+    color: lightgoldenrodyellow;
+    background-color: darkcyan;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+span{
+    font-weight: 900;
+    color:white;
+    background-color:black;
+}
+
+li a {
+    text-decoration: none;
+}
+
+h3{
+    background-color: rgba(0, 139, 139, 0.529);
+    padding: 0.5px;
+    border-radius:5px
+}
+
+#gallery div{
+    width: 100%;
+}
+
+img{
+   width: 100%;
+   border: solid darkcyan 1px;
+   border-radius: 5px;
+}
